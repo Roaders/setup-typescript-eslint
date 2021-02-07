@@ -1,6 +1,6 @@
 {
     "name": "setup-typescript-eslint",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "A small helper package to setup a project with eslint supporting typescript and prettier",
     "main": "dist/index.js",
     "bin": {
