@@ -16,7 +16,8 @@
     "keywords": [
         "eslint",
         "typescript",
-        "setup"
+        "setup",
+        "prettier"
     ],
     "author": "Giles Roadnight",
     "license": "ISC",

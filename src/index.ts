@@ -63,6 +63,13 @@ function installDependencies() {
 
         cursorTo(process.stdout, 0);
         console.log(`${progressMessage}... ${green('\u2713')}`);
+
+        console.log(` `);
+        console.log(green(`Installation complete.`));
+        console.log(`To lint your project run 'npm run lint'`);
+        console.log(
+            `To attempt to auto fix any issues run 'npx eslint . --ext .ts,.js'`
+        );
     });
 }
 
