@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import { blue, green, red } from 'chalk';
 import { join } from 'path';
 import { readFileSync, writeFileSync, copyFileSync } from 'fs';
