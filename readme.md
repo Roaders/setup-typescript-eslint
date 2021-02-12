@@ -6,4 +6,4 @@ Deprecated. Please use `apply-config` instead:
 npx apply-config eslint-typescript
 ```
 
-https://github.com/Roaders/setup-typescript-eslint#readme
+https://www.npmjs.com/package/apply-config
