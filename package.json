@@ -1,6 +1,6 @@
 {
   "name": "setup-typescript-eslint",
-  "version": "0.0.4",
+  "version": "1.0.0",
   "description": "A small helper package to setup a project with eslint supporting typescript and prettier",
   "keywords": [
     "eslint",
